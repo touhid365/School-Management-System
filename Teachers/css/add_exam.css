@@ -1,0 +1,21 @@
+/* body {
+    background-color: #f8f9fa;
+} */
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.form-group label {
+    font-weight: bold;
+}
+.btn-primary {
+    width: 100%;
+}
+h2 {
+    margin-bottom: 20px;
+}

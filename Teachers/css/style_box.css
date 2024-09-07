@@ -1,0 +1,18 @@
+.question-box
+{
+    background: #fff;
+    width: 60%;
+    margin: 5%;
+    padding: .8%;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px rgb(136, 136, 136);
+}
+@media (max-width:900px) {
+    .question-box
+{
+  
+    width: 100%;
+    margin: 0;
+}
+    
+}
