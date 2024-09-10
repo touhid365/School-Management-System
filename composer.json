@@ -1,5 +1,7 @@
 {
     "name": "hp/school-manegment-system",
+    "description": "A brief description of what your package does.",
+
     "autoload": {
         "psr-4": {
             "Hp\\SchoolManegmentSystem\\": "src/"
@@ -9,7 +11,11 @@
         {
             "name": "github-actions",
             "email": "github-actions@github.com"
+           
+
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
+
 }
