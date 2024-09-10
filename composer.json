@@ -1,0 +1,15 @@
+{
+    "name": "hp/school-manegment-system",
+    "autoload": {
+        "psr-4": {
+            "Hp\\SchoolManegmentSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "github-actions",
+            "email": "github-actions@github.com"
+        }
+    ],
+    "require": {}
+}
