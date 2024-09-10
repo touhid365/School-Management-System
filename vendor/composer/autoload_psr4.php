@@ -7,5 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Hp\\SchoolManegmentSystem\\' => array($baseDir . '/src'),
-    'Fpdf\\' => array($vendorDir . '/fpdf/fpdf/src/Fpdf'),
 );

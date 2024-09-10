@@ -11,20 +11,12 @@ class ComposerStaticInita5f7f27f966a09b460f5f6d86877c6af
         array (
             'Hp\\SchoolManegmentSystem\\' => 25,
         ),
-        'F' => 
-        array (
-            'Fpdf\\' => 5,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Hp\\SchoolManegmentSystem\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
-        ),
-        'Fpdf\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/fpdf/fpdf/src/Fpdf',
         ),
     );
 
